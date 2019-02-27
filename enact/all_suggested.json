@@ -1,5 +1,19 @@
 [
     {
+        "reason": "If current system time Tue Feb 26 2019 19:32:55 GMT-0800 (PST) is correct, then BG data is too old. The last BG data was read -4454.9m ago at Fri Mar 01 2019 21:47:48 GMT-0800 (PST). Canceling high temp basal of 0.95",
+        "deliverAt": "2019-02-27T03:32:55.051Z",
+        "temp": "absolute",
+        "basal": 0.7,
+        "bg": 120,
+        "eventualBG": 0,
+        "duration": 0,
+        "rate": 0,
+        "loaded_glucose": "120.0014415757729",
+        "running_temp": 0.95,
+        "fault": "yes",
+        "fault_reason": "row_37"
+    },
+    {
         "temp": "absolute",
         "basal": 0.7,
         "bgi": -0.02,
