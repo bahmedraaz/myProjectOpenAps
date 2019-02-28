@@ -5897,3 +5897,35 @@ JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 59: TypeE
 (firefox:18240): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
 
 (firefox:18240): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1551340236036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e1fsEC88ksOv"
+1551340236474	Marionette	INFO	Enabled via --marionette
+
+(firefox:22700): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22700): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22700): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22700): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22700): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22700): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22700): IBUS-WARNING **: The owner of /home/bahmed/.config/ibus/bus is not root!
+
+(firefox:22700): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Error spawning command line 'dbus-launch --autolaunch=c9ebc9d60d4e7cef8d150e545acd0578 --binary-syntax --close-stderr': Child process exited with code 1
+
+(/usr/lib/firefox/firefox:22760): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22760): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22760): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22760): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22760): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:22760): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1551340237700	Marionette	INFO	Listening on port 36487
+1551340237762	Marionette	WARN	TLS certificate errors will be ignored for this session
