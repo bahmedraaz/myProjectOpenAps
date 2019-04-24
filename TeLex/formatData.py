@@ -7,13 +7,19 @@ it writes the new data to .csv file
 '''
 
 import pandas as pd
+import sys
+import os
 
 #nameSuffix = [80,100,120,140,160]
-nameSuffix = [180,200,220,240,260,280,300,320]
+#nameSuffix = [180,200,220,240,260,280,300,320]
+nameSuffix = [80,100,120,140,160,180,200,220,240,260,280,300,320]
+
+existingFileName = raw_input("Name of existing file..... Example: data_patientA_\n")
+newFileName = raw_input("Name of the updated file..... Example: patientA\n")
 
 for i in nameSuffix: 
-	fileName = "data_patientA_"+str(i)+".csv"
-	updatedFileName = "patientA"+str(i)+".csv"
+	fileName = existingFileName+str(i)+".csv"
+	updatedFileName = newFileName+str(i)+".csv"
 	data = pd.read_csv(fileName)
 
 	data.rename( columns={'Unnamed: 0':'time'}, inplace=True )
@@ -25,11 +31,11 @@ for i in nameSuffix:
 	data.insert(10, "rate_next", 0)
 	data.insert(11, "delRate", 0)
 
-	data["bg_t"] = data["bg_next"].astype(float)
+	data["bg_next"] = data["bg_next"].astype(float)
 	data["delBg"] = data["delBg"].astype(float)
-	data["IOB_t"] = data["IOB_next"].astype(float)
+	data["IOB_next"] = data["IOB_next"].astype(float)
 	data["delIOB"] = data["delIOB"].astype(float)
-	data["rate_t"] = data["rate_next"].astype(float)
+	data["rate_next"] = data["rate_next"].astype(float)
 	data["delRate"] = data["delRate"].astype(float)
 
 	for i in range(len(data.index)-1):
@@ -57,3 +63,5 @@ for i in nameSuffix:
 		
 
 	data.to_csv(updatedFileName, index=False)
+	
+os.system("rm data*")
