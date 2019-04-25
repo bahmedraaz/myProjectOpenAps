@@ -3,186 +3,348 @@
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "lastTemp": {
-      "date": 1556250048000, 
-      "timestamp": "2019-04-25T20:40:48-07:00", 
-      "rate": 0.15, 
-      "started_at": "2019-04-26T03:40:48.000Z", 
+      "date": 1556250349000, 
+      "timestamp": "2019-04-25T20:45:49-07:00", 
+      "rate": 0, 
+      "started_at": "2019-04-26T03:45:49.000Z", 
       "duration": 30
     }, 
-    "netbasalinsulin": 1.05, 
-    "basaliob": -0.18, 
+    "netbasalinsulin": 0.95, 
+    "basaliob": -0.297, 
     "lastBolusTime": 0, 
-    "time": "2019-04-26T03:45:49.000Z", 
-    "activity": 0.0036, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.65, 
-      "basaliob": -0.203, 
-      "time": "2019-04-26T03:45:49.000Z", 
-      "activity": 0.0029, 
-      "iob": -0.203
-    }, 
-    "iob": -0.18
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 1, 
-    "basaliob": -0.246, 
-    "time": "2019-04-26T03:50:49.000Z", 
+    "time": "2019-04-26T03:50:50.000Z", 
     "activity": 0.003, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": 0.65, 
-      "basaliob": -0.265, 
-      "time": "2019-04-26T03:50:49.000Z", 
-      "activity": 0.0025, 
-      "iob": -0.265
+      "netbasalinsulin": 0.6, 
+      "basaliob": -0.315, 
+      "time": "2019-04-26T03:50:50.000Z", 
+      "activity": 0.0024, 
+      "iob": -0.315
     }, 
-    "iob": -0.246
+    "iob": -0.297
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": 0.95, 
-    "basaliob": -0.31, 
-    "time": "2019-04-26T03:55:49.000Z", 
+    "netbasalinsulin": 0.9, 
+    "basaliob": -0.36, 
+    "time": "2019-04-26T03:55:50.000Z", 
     "activity": 0.0024, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": 0.7, 
-      "basaliob": -0.323, 
-      "time": "2019-04-26T03:55:49.000Z", 
-      "activity": 0.002, 
-      "iob": -0.323
+      "netbasalinsulin": 0.6, 
+      "basaliob": -0.374, 
+      "time": "2019-04-26T03:55:50.000Z", 
+      "activity": 0.0019, 
+      "iob": -0.374
     }, 
-    "iob": -0.31
+    "iob": -0.36
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": 0.9, 
-    "basaliob": -0.371, 
-    "time": "2019-04-26T04:00:49.000Z", 
-    "activity": 0.0018, 
+    "netbasalinsulin": 0.85, 
+    "basaliob": -0.421, 
+    "time": "2019-04-26T04:00:50.000Z", 
+    "activity": 0.0017, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": 0.7, 
-      "basaliob": -0.38, 
-      "time": "2019-04-26T04:00:49.000Z", 
+      "netbasalinsulin": 0.65, 
+      "basaliob": -0.43, 
+      "time": "2019-04-26T04:00:50.000Z", 
       "activity": 0.0015, 
-      "iob": -0.38
+      "iob": -0.43
     }, 
-    "iob": -0.371
+    "iob": -0.421
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": 0.85, 
-    "basaliob": -0.428, 
-    "time": "2019-04-26T04:05:49.000Z", 
-    "activity": 0.0013, 
+    "netbasalinsulin": 0.8, 
+    "basaliob": -0.478, 
+    "time": "2019-04-26T04:05:50.000Z", 
+    "activity": 0.0011, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": 0.7, 
-      "basaliob": -0.435, 
-      "time": "2019-04-26T04:05:49.000Z", 
-      "activity": 0.0011, 
-      "iob": -0.435
+      "netbasalinsulin": 0.65, 
+      "basaliob": -0.484, 
+      "time": "2019-04-26T04:05:50.000Z", 
+      "activity": 0.0009, 
+      "iob": -0.484
     }, 
-    "iob": -0.428
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.85, 
-    "basaliob": -0.433, 
-    "time": "2019-04-26T04:10:49.000Z", 
-    "activity": 0.0007, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.75, 
-      "basaliob": -0.437, 
-      "time": "2019-04-26T04:10:49.000Z", 
-      "activity": 0.0006, 
-      "iob": -0.437
-    }, 
-    "iob": -0.433
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.85, 
-    "basaliob": -0.436, 
-    "time": "2019-04-26T04:15:49.000Z", 
-    "activity": 0.0002, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.8, 
-      "basaliob": -0.437, 
-      "time": "2019-04-26T04:15:49.000Z", 
-      "activity": 0.0002, 
-      "iob": -0.437
-    }, 
-    "iob": -0.436
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.9, 
-    "basaliob": -0.434, 
-    "time": "2019-04-26T04:20:49.000Z", 
-    "activity": -0.0002, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.9, 
-      "basaliob": -0.434, 
-      "time": "2019-04-26T04:20:49.000Z", 
-      "activity": -0.0002, 
-      "iob": -0.434
-    }, 
-    "iob": -0.434
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.85, 
-    "basaliob": -0.434, 
-    "time": "2019-04-26T04:25:49.000Z", 
-    "activity": -0.0006, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.85, 
-      "basaliob": -0.434, 
-      "time": "2019-04-26T04:25:49.000Z", 
-      "activity": -0.0006, 
-      "iob": -0.434
-    }, 
-    "iob": -0.434
+    "iob": -0.478
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": 0.75, 
-    "basaliob": -0.432, 
-    "time": "2019-04-26T04:30:49.000Z", 
-    "activity": -0.0011, 
+    "basaliob": -0.532, 
+    "time": "2019-04-26T04:10:50.000Z", 
+    "activity": 0.0005, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.65, 
+      "basaliob": -0.535, 
+      "time": "2019-04-26T04:10:50.000Z", 
+      "activity": 0.0004, 
+      "iob": -0.535
+    }, 
+    "iob": -0.532
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.7, 
+    "basaliob": -0.583, 
+    "time": "2019-04-26T04:15:50.000Z", 
+    "activity": -0.0001, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.65, 
+      "basaliob": -0.584, 
+      "time": "2019-04-26T04:15:50.000Z", 
+      "activity": -0.0002, 
+      "iob": -0.584
+    }, 
+    "iob": -0.583
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.75, 
+    "basaliob": -0.579, 
+    "time": "2019-04-26T04:20:50.000Z", 
+    "activity": -0.0006, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": 0.75, 
+      "basaliob": -0.579, 
+      "time": "2019-04-26T04:20:50.000Z", 
+      "activity": -0.0006, 
+      "iob": -0.579
+    }, 
+    "iob": -0.579
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.7, 
+    "basaliob": -0.576, 
+    "time": "2019-04-26T04:25:50.000Z", 
+    "activity": -0.0012, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.7, 
+      "basaliob": -0.576, 
+      "time": "2019-04-26T04:25:50.000Z", 
+      "activity": -0.0012, 
+      "iob": -0.576
+    }, 
+    "iob": -0.576
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.6, 
+    "basaliob": -0.572, 
+    "time": "2019-04-26T04:30:50.000Z", 
+    "activity": -0.0017, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.6, 
+      "basaliob": -0.572, 
+      "time": "2019-04-26T04:30:50.000Z", 
+      "activity": -0.0017, 
+      "iob": -0.572
+    }, 
+    "iob": -0.572
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.45, 
+    "basaliob": -0.567, 
+    "time": "2019-04-26T04:35:50.000Z", 
+    "activity": -0.0023, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.45, 
+      "basaliob": -0.567, 
+      "time": "2019-04-26T04:35:50.000Z", 
+      "activity": -0.0023, 
+      "iob": -0.567
+    }, 
+    "iob": -0.567
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.35, 
+    "basaliob": -0.558, 
+    "time": "2019-04-26T04:40:50.000Z", 
+    "activity": -0.0027, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.35, 
+      "basaliob": -0.558, 
+      "time": "2019-04-26T04:40:50.000Z", 
+      "activity": -0.0027, 
+      "iob": -0.558
+    }, 
+    "iob": -0.558
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.25, 
+    "basaliob": -0.546, 
+    "time": "2019-04-26T04:45:50.000Z", 
+    "activity": -0.0031, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.25, 
+      "basaliob": -0.546, 
+      "time": "2019-04-26T04:45:50.000Z", 
+      "activity": -0.0031, 
+      "iob": -0.546
+    }, 
+    "iob": -0.546
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0.1, 
+    "basaliob": -0.535, 
+    "time": "2019-04-26T04:50:50.000Z", 
+    "activity": -0.0035, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0.1, 
+      "basaliob": -0.535, 
+      "time": "2019-04-26T04:50:50.000Z", 
+      "activity": -0.0035, 
+      "iob": -0.535
+    }, 
+    "iob": -0.535
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": 0, 
+    "basaliob": -0.52, 
+    "time": "2019-04-26T04:55:50.000Z", 
+    "activity": -0.0038, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": 0, 
+      "basaliob": -0.52, 
+      "time": "2019-04-26T04:55:50.000Z", 
+      "activity": -0.0038, 
+      "iob": -0.52
+    }, 
+    "iob": -0.52
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.1, 
+    "basaliob": -0.504, 
+    "time": "2019-04-26T05:00:50.000Z", 
+    "activity": -0.004, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.1, 
+      "basaliob": -0.504, 
+      "time": "2019-04-26T05:00:50.000Z", 
+      "activity": -0.004, 
+      "iob": -0.504
+    }, 
+    "iob": -0.504
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.2, 
+    "basaliob": -0.487, 
+    "time": "2019-04-26T05:05:50.000Z", 
+    "activity": -0.0042, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.2, 
+      "basaliob": -0.487, 
+      "time": "2019-04-26T05:05:50.000Z", 
+      "activity": -0.0042, 
+      "iob": -0.487
+    }, 
+    "iob": -0.487
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.35, 
+    "basaliob": -0.47, 
+    "time": "2019-04-26T05:10:50.000Z", 
+    "activity": -0.0044, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.35, 
+      "basaliob": -0.47, 
+      "time": "2019-04-26T05:10:50.000Z", 
+      "activity": -0.0044, 
+      "iob": -0.47
+    }, 
+    "iob": -0.47
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.45, 
+    "basaliob": -0.451, 
+    "time": "2019-04-26T05:15:50.000Z", 
+    "activity": -0.0045, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.45, 
+      "basaliob": -0.451, 
+      "time": "2019-04-26T05:15:50.000Z", 
+      "activity": -0.0045, 
+      "iob": -0.451
+    }, 
+    "iob": -0.451
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.55, 
+    "basaliob": -0.432, 
+    "time": "2019-04-26T05:20:50.000Z", 
+    "activity": -0.0046, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.55, 
       "basaliob": -0.432, 
-      "time": "2019-04-26T04:30:49.000Z", 
-      "activity": -0.0011, 
+      "time": "2019-04-26T05:20:50.000Z", 
+      "activity": -0.0046, 
       "iob": -0.432
     }, 
     "iob": -0.432
@@ -190,395 +352,269 @@
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": 0.6, 
-    "basaliob": -0.431, 
-    "time": "2019-04-26T04:35:49.000Z", 
-    "activity": -0.0016, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.6, 
-      "basaliob": -0.431, 
-      "time": "2019-04-26T04:35:49.000Z", 
-      "activity": -0.0016, 
-      "iob": -0.431
-    }, 
-    "iob": -0.431
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.5, 
-    "basaliob": -0.425, 
-    "time": "2019-04-26T04:40:49.000Z", 
-    "activity": -0.002, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.5, 
-      "basaliob": -0.425, 
-      "time": "2019-04-26T04:40:49.000Z", 
-      "activity": -0.002, 
-      "iob": -0.425
-    }, 
-    "iob": -0.425
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.4, 
-    "basaliob": -0.417, 
-    "time": "2019-04-26T04:45:49.000Z", 
-    "activity": -0.0023, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.4, 
-      "basaliob": -0.417, 
-      "time": "2019-04-26T04:45:49.000Z", 
-      "activity": -0.0023, 
-      "iob": -0.417
-    }, 
-    "iob": -0.417
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.25, 
-    "basaliob": -0.41, 
-    "time": "2019-04-26T04:50:49.000Z", 
-    "activity": -0.0027, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.25, 
-      "basaliob": -0.41, 
-      "time": "2019-04-26T04:50:49.000Z", 
-      "activity": -0.0027, 
-      "iob": -0.41
-    }, 
-    "iob": -0.41
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.15, 
-    "basaliob": -0.4, 
-    "time": "2019-04-26T04:55:49.000Z", 
-    "activity": -0.0029, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.15, 
-      "basaliob": -0.4, 
-      "time": "2019-04-26T04:55:49.000Z", 
-      "activity": -0.0029, 
-      "iob": -0.4
-    }, 
-    "iob": -0.4
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": 0.05, 
-    "basaliob": -0.388, 
-    "time": "2019-04-26T05:00:49.000Z", 
-    "activity": -0.0031, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": 0.05, 
-      "basaliob": -0.388, 
-      "time": "2019-04-26T05:00:49.000Z", 
-      "activity": -0.0031, 
-      "iob": -0.388
-    }, 
-    "iob": -0.388
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.05, 
-    "basaliob": -0.375, 
-    "time": "2019-04-26T05:05:49.000Z", 
-    "activity": -0.0033, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.05, 
-      "basaliob": -0.375, 
-      "time": "2019-04-26T05:05:49.000Z", 
-      "activity": -0.0033, 
-      "iob": -0.375
-    }, 
-    "iob": -0.375
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.2, 
-    "basaliob": -0.363, 
-    "time": "2019-04-26T05:10:49.000Z", 
-    "activity": -0.0035, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.2, 
-      "basaliob": -0.363, 
-      "time": "2019-04-26T05:10:49.000Z", 
-      "activity": -0.0035, 
-      "iob": -0.363
-    }, 
-    "iob": -0.363
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.3, 
-    "basaliob": -0.349, 
-    "time": "2019-04-26T05:15:49.000Z", 
-    "activity": -0.0036, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.3, 
-      "basaliob": -0.349, 
-      "time": "2019-04-26T05:15:49.000Z", 
-      "activity": -0.0036, 
-      "iob": -0.349
-    }, 
-    "iob": -0.349
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.4, 
-    "basaliob": -0.334, 
-    "time": "2019-04-26T05:20:49.000Z", 
-    "activity": -0.0037, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.4, 
-      "basaliob": -0.334, 
-      "time": "2019-04-26T05:20:49.000Z", 
-      "activity": -0.0037, 
-      "iob": -0.334
-    }, 
-    "iob": -0.334
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.55, 
-    "basaliob": -0.32, 
-    "time": "2019-04-26T05:25:49.000Z", 
-    "activity": -0.0038, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.55, 
-      "basaliob": -0.32, 
-      "time": "2019-04-26T05:25:49.000Z", 
-      "activity": -0.0038, 
-      "iob": -0.32
-    }, 
-    "iob": -0.32
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.6, 
-    "basaliob": -0.303, 
-    "time": "2019-04-26T05:30:49.000Z", 
-    "activity": -0.0037, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.6, 
-      "basaliob": -0.303, 
-      "time": "2019-04-26T05:30:49.000Z", 
-      "activity": -0.0037, 
-      "iob": -0.303
-    }, 
-    "iob": -0.303
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.65, 
-    "basaliob": -0.286, 
-    "time": "2019-04-26T05:35:49.000Z", 
-    "activity": -0.0037, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.65, 
-      "basaliob": -0.286, 
-      "time": "2019-04-26T05:35:49.000Z", 
-      "activity": -0.0037, 
-      "iob": -0.286
-    }, 
-    "iob": -0.286
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
     "netbasalinsulin": -0.7, 
-    "basaliob": -0.27, 
-    "time": "2019-04-26T05:40:49.000Z", 
-    "activity": -0.0036, 
+    "basaliob": -0.414, 
+    "time": "2019-04-26T05:25:50.000Z", 
+    "activity": -0.0047, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.7, 
-      "basaliob": -0.27, 
-      "time": "2019-04-26T05:40:49.000Z", 
-      "activity": -0.0036, 
-      "iob": -0.27
+      "basaliob": -0.414, 
+      "time": "2019-04-26T05:25:50.000Z", 
+      "activity": -0.0047, 
+      "iob": -0.414
     }, 
-    "iob": -0.27
+    "iob": -0.414
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.75, 
-    "basaliob": -0.253, 
-    "time": "2019-04-26T05:45:49.000Z", 
-    "activity": -0.0036, 
+    "basaliob": -0.392, 
+    "time": "2019-04-26T05:30:50.000Z", 
+    "activity": -0.0046, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.75, 
-      "basaliob": -0.253, 
-      "time": "2019-04-26T05:45:49.000Z", 
-      "activity": -0.0036, 
-      "iob": -0.253
+      "basaliob": -0.392, 
+      "time": "2019-04-26T05:30:50.000Z", 
+      "activity": -0.0046, 
+      "iob": -0.392
     }, 
-    "iob": -0.253
+    "iob": -0.392
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.8, 
-    "basaliob": -0.237, 
-    "time": "2019-04-26T05:50:49.000Z", 
-    "activity": -0.0035, 
+    "basaliob": -0.371, 
+    "time": "2019-04-26T05:35:50.000Z", 
+    "activity": -0.0046, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.8, 
-      "basaliob": -0.237, 
-      "time": "2019-04-26T05:50:49.000Z", 
-      "activity": -0.0035, 
-      "iob": -0.237
+      "basaliob": -0.371, 
+      "time": "2019-04-26T05:35:50.000Z", 
+      "activity": -0.0046, 
+      "iob": -0.371
     }, 
-    "iob": -0.237
+    "iob": -0.371
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.85, 
-    "basaliob": -0.222, 
-    "time": "2019-04-26T05:55:49.000Z", 
+    "basaliob": -0.35, 
+    "time": "2019-04-26T05:40:50.000Z", 
+    "activity": -0.0045, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.85, 
+      "basaliob": -0.35, 
+      "time": "2019-04-26T05:40:50.000Z", 
+      "activity": -0.0045, 
+      "iob": -0.35
+    }, 
+    "iob": -0.35
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.9, 
+    "basaliob": -0.329, 
+    "time": "2019-04-26T05:45:50.000Z", 
+    "activity": -0.0044, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.9, 
+      "basaliob": -0.329, 
+      "time": "2019-04-26T05:45:50.000Z", 
+      "activity": -0.0044, 
+      "iob": -0.329
+    }, 
+    "iob": -0.329
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -0.95, 
+    "basaliob": -0.309, 
+    "time": "2019-04-26T05:50:50.000Z", 
+    "activity": -0.0043, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -0.95, 
+      "basaliob": -0.309, 
+      "time": "2019-04-26T05:50:50.000Z", 
+      "activity": -0.0043, 
+      "iob": -0.309
+    }, 
+    "iob": -0.309
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.289, 
+    "time": "2019-04-26T05:55:50.000Z", 
+    "activity": -0.0042, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.289, 
+      "time": "2019-04-26T05:55:50.000Z", 
+      "activity": -0.0042, 
+      "iob": -0.289
+    }, 
+    "iob": -0.289
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.268, 
+    "time": "2019-04-26T06:00:50.000Z", 
+    "activity": -0.0041, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.268, 
+      "time": "2019-04-26T06:00:50.000Z", 
+      "activity": -0.0041, 
+      "iob": -0.268
+    }, 
+    "iob": -0.268
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.248, 
+    "time": "2019-04-26T06:05:50.000Z", 
+    "activity": -0.0039, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.248, 
+      "time": "2019-04-26T06:05:50.000Z", 
+      "activity": -0.0039, 
+      "iob": -0.248
+    }, 
+    "iob": -0.248
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.229, 
+    "time": "2019-04-26T06:10:50.000Z", 
+    "activity": -0.0037, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.229, 
+      "time": "2019-04-26T06:10:50.000Z", 
+      "activity": -0.0037, 
+      "iob": -0.229
+    }, 
+    "iob": -0.229
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.211, 
+    "time": "2019-04-26T06:15:50.000Z", 
+    "activity": -0.0035, 
+    "iobWithZeroTemp": {
+      "bolusinsulin": 0, 
+      "bolusiob": 0, 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.211, 
+      "time": "2019-04-26T06:15:50.000Z", 
+      "activity": -0.0035, 
+      "iob": -0.211
+    }, 
+    "iob": -0.211
+  }, 
+  {
+    "bolusinsulin": 0, 
+    "bolusiob": 0, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.194, 
+    "time": "2019-04-26T06:20:50.000Z", 
     "activity": -0.0034, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.222, 
-      "time": "2019-04-26T05:55:49.000Z", 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.194, 
+      "time": "2019-04-26T06:20:50.000Z", 
       "activity": -0.0034, 
-      "iob": -0.222
+      "iob": -0.194
     }, 
-    "iob": -0.222
+    "iob": -0.194
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.205, 
-    "time": "2019-04-26T06:00:49.000Z", 
-    "activity": -0.0033, 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.178, 
+    "time": "2019-04-26T06:25:50.000Z", 
+    "activity": -0.0032, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.205, 
-      "time": "2019-04-26T06:00:49.000Z", 
-      "activity": -0.0033, 
-      "iob": -0.205
+      "netbasalinsulin": -1, 
+      "basaliob": -0.178, 
+      "time": "2019-04-26T06:25:50.000Z", 
+      "activity": -0.0032, 
+      "iob": -0.178
     }, 
-    "iob": -0.205
+    "iob": -0.178
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.189, 
-    "time": "2019-04-26T06:05:49.000Z", 
-    "activity": -0.0031, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.189, 
-      "time": "2019-04-26T06:05:49.000Z", 
-      "activity": -0.0031, 
-      "iob": -0.189
-    }, 
-    "iob": -0.189
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.174, 
-    "time": "2019-04-26T06:10:49.000Z", 
+    "netbasalinsulin": -1, 
+    "basaliob": -0.162, 
+    "time": "2019-04-26T06:30:50.000Z", 
     "activity": -0.003, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.174, 
-      "time": "2019-04-26T06:10:49.000Z", 
+      "netbasalinsulin": -1, 
+      "basaliob": -0.162, 
+      "time": "2019-04-26T06:30:50.000Z", 
       "activity": -0.003, 
-      "iob": -0.174
+      "iob": -0.162
     }, 
-    "iob": -0.174
+    "iob": -0.162
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.16, 
-    "time": "2019-04-26T06:15:49.000Z", 
+    "netbasalinsulin": -0.95, 
+    "basaliob": -0.146, 
+    "time": "2019-04-26T06:35:50.000Z", 
     "activity": -0.0028, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.16, 
-      "time": "2019-04-26T06:15:49.000Z", 
-      "activity": -0.0028, 
-      "iob": -0.16
-    }, 
-    "iob": -0.16
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.146, 
-    "time": "2019-04-26T06:20:49.000Z", 
-    "activity": -0.0027, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
+      "netbasalinsulin": -0.95, 
       "basaliob": -0.146, 
-      "time": "2019-04-26T06:20:49.000Z", 
-      "activity": -0.0027, 
+      "time": "2019-04-26T06:35:50.000Z", 
+      "activity": -0.0028, 
       "iob": -0.146
     }, 
     "iob": -0.146
@@ -586,289 +622,253 @@
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.133, 
-    "time": "2019-04-26T06:25:49.000Z", 
-    "activity": -0.0025, 
+    "netbasalinsulin": -0.95, 
+    "basaliob": -0.132, 
+    "time": "2019-04-26T06:40:50.000Z", 
+    "activity": -0.0026, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.133, 
-      "time": "2019-04-26T06:25:49.000Z", 
-      "activity": -0.0025, 
-      "iob": -0.133
+      "netbasalinsulin": -0.95, 
+      "basaliob": -0.132, 
+      "time": "2019-04-26T06:40:50.000Z", 
+      "activity": -0.0026, 
+      "iob": -0.132
     }, 
-    "iob": -0.133
+    "iob": -0.132
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": -0.85, 
-    "basaliob": -0.121, 
-    "time": "2019-04-26T06:30:49.000Z", 
+    "netbasalinsulin": -0.9, 
+    "basaliob": -0.118, 
+    "time": "2019-04-26T06:45:50.000Z", 
     "activity": -0.0024, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.85, 
-      "basaliob": -0.121, 
-      "time": "2019-04-26T06:30:49.000Z", 
+      "netbasalinsulin": -0.9, 
+      "basaliob": -0.118, 
+      "time": "2019-04-26T06:45:50.000Z", 
       "activity": -0.0024, 
-      "iob": -0.121
+      "iob": -0.118
     }, 
-    "iob": -0.121
+    "iob": -0.118
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
-    "netbasalinsulin": -0.8, 
-    "basaliob": -0.108, 
-    "time": "2019-04-26T06:35:49.000Z", 
+    "netbasalinsulin": -0.85, 
+    "basaliob": -0.105, 
+    "time": "2019-04-26T06:50:50.000Z", 
     "activity": -0.0022, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
-      "netbasalinsulin": -0.8, 
-      "basaliob": -0.108, 
-      "time": "2019-04-26T06:35:49.000Z", 
+      "netbasalinsulin": -0.85, 
+      "basaliob": -0.105, 
+      "time": "2019-04-26T06:50:50.000Z", 
       "activity": -0.0022, 
-      "iob": -0.108
+      "iob": -0.105
     }, 
-    "iob": -0.108
+    "iob": -0.105
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.8, 
-    "basaliob": -0.097, 
-    "time": "2019-04-26T06:40:49.000Z", 
+    "basaliob": -0.093, 
+    "time": "2019-04-26T06:55:50.000Z", 
     "activity": -0.002, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.8, 
-      "basaliob": -0.097, 
-      "time": "2019-04-26T06:40:49.000Z", 
+      "basaliob": -0.093, 
+      "time": "2019-04-26T06:55:50.000Z", 
       "activity": -0.002, 
-      "iob": -0.097
+      "iob": -0.093
     }, 
-    "iob": -0.097
+    "iob": -0.093
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.75, 
-    "basaliob": -0.086, 
-    "time": "2019-04-26T06:45:49.000Z", 
+    "basaliob": -0.081, 
+    "time": "2019-04-26T07:00:50.000Z", 
     "activity": -0.0018, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.75, 
-      "basaliob": -0.086, 
-      "time": "2019-04-26T06:45:49.000Z", 
+      "basaliob": -0.081, 
+      "time": "2019-04-26T07:00:50.000Z", 
       "activity": -0.0018, 
-      "iob": -0.086
+      "iob": -0.081
     }, 
-    "iob": -0.086
+    "iob": -0.081
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.7, 
-    "basaliob": -0.075, 
-    "time": "2019-04-26T06:50:49.000Z", 
-    "activity": -0.0017, 
+    "basaliob": -0.071, 
+    "time": "2019-04-26T07:05:50.000Z", 
+    "activity": -0.0016, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.7, 
-      "basaliob": -0.075, 
-      "time": "2019-04-26T06:50:49.000Z", 
-      "activity": -0.0017, 
-      "iob": -0.075
+      "basaliob": -0.071, 
+      "time": "2019-04-26T07:05:50.000Z", 
+      "activity": -0.0016, 
+      "iob": -0.071
     }, 
-    "iob": -0.075
+    "iob": -0.071
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.65, 
-    "basaliob": -0.065, 
-    "time": "2019-04-26T06:55:49.000Z", 
-    "activity": -0.0015, 
+    "basaliob": -0.062, 
+    "time": "2019-04-26T07:10:50.000Z", 
+    "activity": -0.0014, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.65, 
-      "basaliob": -0.065, 
-      "time": "2019-04-26T06:55:49.000Z", 
-      "activity": -0.0015, 
-      "iob": -0.065
+      "basaliob": -0.062, 
+      "time": "2019-04-26T07:10:50.000Z", 
+      "activity": -0.0014, 
+      "iob": -0.062
     }, 
-    "iob": -0.065
+    "iob": -0.062
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.6, 
-    "basaliob": -0.057, 
-    "time": "2019-04-26T07:00:49.000Z", 
+    "basaliob": -0.053, 
+    "time": "2019-04-26T07:15:50.000Z", 
     "activity": -0.0013, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.6, 
-      "basaliob": -0.057, 
-      "time": "2019-04-26T07:00:49.000Z", 
+      "basaliob": -0.053, 
+      "time": "2019-04-26T07:15:50.000Z", 
       "activity": -0.0013, 
-      "iob": -0.057
+      "iob": -0.053
     }, 
-    "iob": -0.057
+    "iob": -0.053
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.55, 
-    "basaliob": -0.048, 
-    "time": "2019-04-26T07:05:49.000Z", 
-    "activity": -0.0012, 
+    "basaliob": -0.045, 
+    "time": "2019-04-26T07:20:50.000Z", 
+    "activity": -0.0011, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.55, 
-      "basaliob": -0.048, 
-      "time": "2019-04-26T07:05:49.000Z", 
-      "activity": -0.0012, 
-      "iob": -0.048
+      "basaliob": -0.045, 
+      "time": "2019-04-26T07:20:50.000Z", 
+      "activity": -0.0011, 
+      "iob": -0.045
     }, 
-    "iob": -0.048
+    "iob": -0.045
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.5, 
-    "basaliob": -0.041, 
-    "time": "2019-04-26T07:10:49.000Z", 
+    "basaliob": -0.038, 
+    "time": "2019-04-26T07:25:50.000Z", 
     "activity": -0.001, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.5, 
-      "basaliob": -0.041, 
-      "time": "2019-04-26T07:10:49.000Z", 
+      "basaliob": -0.038, 
+      "time": "2019-04-26T07:25:50.000Z", 
       "activity": -0.001, 
-      "iob": -0.041
+      "iob": -0.038
     }, 
-    "iob": -0.041
+    "iob": -0.038
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.45, 
-    "basaliob": -0.035, 
-    "time": "2019-04-26T07:15:49.000Z", 
-    "activity": -0.0009, 
+    "basaliob": -0.032, 
+    "time": "2019-04-26T07:30:50.000Z", 
+    "activity": -0.0008, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.45, 
-      "basaliob": -0.035, 
-      "time": "2019-04-26T07:15:49.000Z", 
-      "activity": -0.0009, 
-      "iob": -0.035
+      "basaliob": -0.032, 
+      "time": "2019-04-26T07:30:50.000Z", 
+      "activity": -0.0008, 
+      "iob": -0.032
     }, 
-    "iob": -0.035
+    "iob": -0.032
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.4, 
-    "basaliob": -0.029, 
-    "time": "2019-04-26T07:20:49.000Z", 
-    "activity": -0.0008, 
+    "basaliob": -0.026, 
+    "time": "2019-04-26T07:35:50.000Z", 
+    "activity": -0.0007, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.4, 
-      "basaliob": -0.029, 
-      "time": "2019-04-26T07:20:49.000Z", 
-      "activity": -0.0008, 
-      "iob": -0.029
+      "basaliob": -0.026, 
+      "time": "2019-04-26T07:35:50.000Z", 
+      "activity": -0.0007, 
+      "iob": -0.026
     }, 
-    "iob": -0.029
+    "iob": -0.026
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.35, 
-    "basaliob": -0.023, 
-    "time": "2019-04-26T07:25:49.000Z", 
+    "basaliob": -0.021, 
+    "time": "2019-04-26T07:40:50.000Z", 
     "activity": -0.0006, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.35, 
-      "basaliob": -0.023, 
-      "time": "2019-04-26T07:25:49.000Z", 
+      "basaliob": -0.021, 
+      "time": "2019-04-26T07:40:50.000Z", 
       "activity": -0.0006, 
-      "iob": -0.023
+      "iob": -0.021
     }, 
-    "iob": -0.023
+    "iob": -0.021
   }, 
   {
     "bolusinsulin": 0, 
     "bolusiob": 0, 
     "netbasalinsulin": -0.3, 
-    "basaliob": -0.019, 
-    "time": "2019-04-26T07:30:49.000Z", 
+    "basaliob": -0.016, 
+    "time": "2019-04-26T07:45:50.000Z", 
     "activity": -0.0005, 
     "iobWithZeroTemp": {
       "bolusinsulin": 0, 
       "bolusiob": 0, 
       "netbasalinsulin": -0.3, 
-      "basaliob": -0.019, 
-      "time": "2019-04-26T07:30:49.000Z", 
+      "basaliob": -0.016, 
+      "time": "2019-04-26T07:45:50.000Z", 
       "activity": -0.0005, 
-      "iob": -0.019
+      "iob": -0.016
     }, 
-    "iob": -0.019
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.25, 
-    "basaliob": -0.015, 
-    "time": "2019-04-26T07:35:49.000Z", 
-    "activity": -0.0004, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.25, 
-      "basaliob": -0.015, 
-      "time": "2019-04-26T07:35:49.000Z", 
-      "activity": -0.0004, 
-      "iob": -0.015
-    }, 
-    "iob": -0.015
-  }, 
-  {
-    "bolusinsulin": 0, 
-    "bolusiob": 0, 
-    "netbasalinsulin": -0.2, 
-    "basaliob": -0.011, 
-    "time": "2019-04-26T07:40:49.000Z", 
-    "activity": -0.0003, 
-    "iobWithZeroTemp": {
-      "bolusinsulin": 0, 
-      "bolusiob": 0, 
-      "netbasalinsulin": -0.2, 
-      "basaliob": -0.011, 
-      "time": "2019-04-26T07:40:49.000Z", 
-      "activity": -0.0003, 
-      "iob": -0.011
-    }, 
-    "iob": -0.011
+    "iob": -0.016
   }
 ]
