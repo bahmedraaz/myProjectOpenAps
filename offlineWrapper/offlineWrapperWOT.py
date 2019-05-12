@@ -7,6 +7,7 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import f1_score
 import sys
 import glob
+import os
 
 
 
@@ -23,6 +24,14 @@ thRateRise = 0.20
 bgTarget = 120
 bgLowerTh = 75
 
+if not os.path.exists("output"):
+	os.mkdir("output")
+
+if not os.path.exists("output/wrapperOutput"):
+	os.mkdir("output/wrapperOutput")
+
+if not os.path.exists("output/result"):
+	os.mkdir("output/result")
 
 for file in glob.glob("data_*.csv"):
 	file_name = file
@@ -157,12 +166,12 @@ for file in glob.glob("data_*.csv"):
 	numDetection = (data["detection"].sum())/100
 
 	## Add Number of Alarm and some title and formatting stuff
-	writeNumDetection = open("WOT_"+file_name+".txt", "w")
+	writeNumDetection = open("output/result/WOT_"+file_name+".txt", "w")
 	writeNumDetection.write("Number of Alarm: "+str(numDetection)+"\n")
 	writeNumDetection.close()
 
 	## Add Alarm Time
-	appendAlamrTime = open("WOT_"+file_name+".txt", "a")
+	appendAlamrTime = open("output/result/WOT_"+file_name+".txt", "a")
 	appendAlamrTime.write("Alarm Time: ")
 	for i in range(len(data.index)):
 		if data["unsafe_action_reason"][i] is not "Null":
@@ -170,7 +179,7 @@ for file in glob.glob("data_*.csv"):
 	appendAlamrTime.close()
 
 	## Append Classification Report
-	appendClassificationReport = open("WOT_"+file_name+".txt", "a")
+	appendClassificationReport = open("output/result/WOT_"+file_name+".txt", "a")
 	appendClassificationReport.write("\n\n		***** Classification Report *****\n\n")
 	appendClassificationReport.write(classification_report(y_true, y_pred))
 	appendClassificationReport.write("\n\n");
@@ -178,4 +187,4 @@ for file in glob.glob("data_*.csv"):
 
 
 	print("Number of Alarm: ", numDetection)
-	data.to_csv("WOT_"+file_name);
+	data.to_csv("output/wrapperOutput/WOT_"+file_name);
