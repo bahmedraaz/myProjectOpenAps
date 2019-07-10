@@ -63,7 +63,7 @@ for i in browser.find_elements_by_xpath("//*[@type='radio']"):
 		writeFile_F1 = open("f1_score.txt", "w+")
 		writeFile_CM.write(np.array2string(confusion_matrix(y_true, y_pred)))
 		#writeFile_F1.write(classification_report(y_true, y_pred))
-		writeFile_F1.write(str(f1_score(y_true, y_pred,average='macro')))
+		writeFile_F1.write(str(f1_score(y_true, y_pred,average=None)))
 		cmd_move_conf_matrix = 'mv '+'confusion_matrix.txt '+directory+'/'+cm_file_name
 		cmd_move_f1_score = 'mv '+'f1_score.txt '+directory+'/'+f1_file_name
 		os.system(cmd_move_conf_matrix)
